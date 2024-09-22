@@ -1,6 +1,9 @@
 # PostIt
 PostIt is a fully-featured social media web application, built with the MERN stack.  
 
+![image](https://github.com/user-attachments/assets/25e52e34-f4a0-4241-964e-061e7f259d45)
+
+
 
 ## Features
 - Create, read, update and delete posts
